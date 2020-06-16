@@ -6,7 +6,7 @@ public class Exercitiu8 {
         Scanner s = new Scanner(System.in);
         System.out.println( "Cate persoane sunteti?");
         int persoane = s.nextInt();
-        System.out.println( "Cate pizza aveti de impartit?");
+        System.out.println( "Cate 2pizza aveti de impartit?");
         int pizza = s.nextInt();
 
              if (pizza <= 0) {
