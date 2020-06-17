@@ -8,7 +8,6 @@ public class Exercitiu8 {
         int persoane = s.nextInt();
         System.out.println( "Cate 2pizza aveti de impartit?");
         int pizza = s.nextInt();
-
              if (pizza <= 0) {
              MyException e = new MyException();
               throw e;
