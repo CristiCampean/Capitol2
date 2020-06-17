@@ -23,6 +23,6 @@ public class Exercitiu13 {
         System.out.println("Suma: " + p);
         System.out.println("Nr ani: " + t);
         System.out.println("Dobanda : " + r);
-        System.out.println("Dobanda compusa : " + z);
+        System.out.println("Dobanda compusa  anuala : " + z);
     }
 }
